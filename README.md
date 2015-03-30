@@ -2,7 +2,7 @@
 ----
 ###币种数据: currency_cn.json
 | 字段名称 | 描述 |
-| -- | - |
+| -------- | ------- |
 | longname | 中文描述 |
 | shortname | 英文简写 |
 | symbol | 货币符号 |
